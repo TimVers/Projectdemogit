@@ -1,4 +1,4 @@
-dit is een Project Steam A Git-demo
+dit is een Project voor blok B Git-demo
 
 
 * voorbeeld
